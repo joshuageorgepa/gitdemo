@@ -1,3 +1,3 @@
 # Git demo
 
-Learning Git
+Learning Git!
